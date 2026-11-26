@@ -45,17 +45,7 @@
 
 ---
 
-### 🚀 My Projects
 
-**WardRobe – Clothing Shopping Website**
-
-- A multi-brand clothing shopping website.
-- Exploring creative ways to display clothing collections through digital wardrobes.
-- Built as a learning project.
-
-*More projects coming soon!*
-
----
 
 ### 📊 GitHub Statistics
 
